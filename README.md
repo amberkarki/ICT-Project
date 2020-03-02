@@ -1,4 +1,4 @@
-CT Cloud & Infrastructure Project:
+## CT Cloud & Infrastructure Project:
 Following installations & configurations have been covered in this project.
 Virtualization-Cloud
 VMware ESXi 6.7 Hypervisor
